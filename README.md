@@ -18,7 +18,14 @@ A public learning workspace by **Dhananjaya Vijebahu**, a Production Manager exp
 - `mini-projects/` — self-contained learning projects.
 - `data/sample/` — synthetic or openly licensed sample data.
 
-These folders are a proposed structure; this repository currently contains the starter README only. Exercises and setup instructions will be added as projects develop.
+The repository now includes `basics/check_tensorflow.py` and `web-scraping/` experiments. The remaining folders above are planned.
+
+## Imported exercises
+
+- `basics/`: a TensorFlow installation/version check.
+- `web-scraping/`: an early CSE exploration notebook and a legacy Selenium scraper. Read that folder's README for compatibility limitations.
+
+Notebook outputs were cleared, a personal absolute path was removed, and datasets, executables, and caches were excluded. Python syntax was checked; the scraper and notebook were not executed. Manufacturing application source is maintained separately in a private repository.
 
 ## First exercise
 
